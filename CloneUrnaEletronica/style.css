@@ -1,18 +1,24 @@
 body {
     margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .urna {
     background-color: #dbd5c9;
-    padding: 30px;    
+    padding: 30px;   
+    display: flex; 
 }
 
 .tela {
-    width: 450px;
+    width: 500px;
     height: 320px;
     background: linear-gradient(to right, #E8E8E8, #C1C1C1);
 }
 
 .teclado {
+    margin-left: 30px;
     background-color: #403A3A;    
 }
