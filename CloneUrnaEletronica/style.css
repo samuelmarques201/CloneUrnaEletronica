@@ -16,11 +16,16 @@ body {
     width: 500px;
     height: 320px;
     background: linear-gradient(to right, #E8E8E8, #C1C1C1);
+    border: 3px solid #555;
 }
 
 .teclado {
     margin-left: 30px;
-    background-color: #403A3A;    
+    width: 280px;
+    height: 320px;
+    background-color: #403A3A;  
+    align-items: flex-end; 
+    
 }
 
 .teclado--linha {
@@ -29,7 +34,7 @@ body {
     align-items: flex-end;
 }
 .teclado--botao {
-    width: 70px;
+    width: 50px;
     height: 40px;
     background-color: #000;
     color: #fff;
@@ -45,11 +50,15 @@ body {
     background-color: #FFF;
     color: #000;
     font-size: 15px;
+    width: 70px;
+    height: 40px;
 }
 .botao--corrige {
     background-color: #F09046;
     color: #000;
     font-size: 15px;
+    width: 70px;
+    height: 40px;
 }
 .botao--confirma {
     background-color: #48c079;
