@@ -134,9 +134,7 @@ body {
 .d-1-image {
     border: 1px solid #000;
     background-color: #FFF;
-    text-align: center;
-    width: 280px;
-    height: 176px;
+    text-align: center;  
 }
 .d-1-image img {
     width: 100%;
