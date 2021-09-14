@@ -127,11 +127,24 @@ body {
 
 
 
-.d-1-rigth {
-    width: 90px;
+.d-1-right {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
 
-
+.d-1-image {
+    border: 1px solid #000;
+    text-align: center;  
+}
+.d-1-image img {
+    width: 100%;
+}
+.d-1-image.small {
+    width: 80%;
+    font-size: 12px;
+}
 
 .d-2 {
     height: 50px;
@@ -140,4 +153,4 @@ body {
     padding-left: 10px;
 }
 
-/**parei 30:48**/
+/**parei 48:16**/
