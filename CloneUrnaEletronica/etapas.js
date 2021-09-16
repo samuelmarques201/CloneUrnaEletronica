@@ -4,7 +4,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 29,
+                numero: '29',
                 nome: 'Cesar das Galinhas',
                 partido: 'DIF',
                 vice:'Anibal',
@@ -14,7 +14,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 33,
+                numero: '33',
                 nome: 'Cristiane sábida',
                 partido: 'DIF',
                 vice:'Leda',
@@ -30,7 +30,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 71,
+                numero: '71',
                 nome: 'Zoin do carro',
                 partido: 'DIF',
                 vice:'Marreta',
@@ -40,7 +40,7 @@ let etapas = [
                 ]
             },
             {
-                numero: 65,
+                numero: '65',
                 nome: 'Solange dmaia',
                 partido: 'DIF',
                 vice:'Henrique DUK',
