@@ -12,6 +12,7 @@ function comecarEtapa() {
     let etapa = etapas[etapaAtual];
 
     let numeroHtml = '';
+    numero = '';
 
     for(let i=0;i<etapa.numeros;i++) {
         if(i ===0) {
@@ -78,7 +79,7 @@ function branco() {
     alert("Clicou em BRANCO!");
 }
 function corrige() {
-    alert("Clicou em CORRIGE!");
+    comecarEtapa(); 
 }
 function confirma() { 
     alert("Clicou em CONFIRMA!");
