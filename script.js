@@ -125,3 +125,5 @@ function confirma() {
 }
 
 comecarEtapa(); 
+
+/* fazer correção da tela */
