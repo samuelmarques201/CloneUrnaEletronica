@@ -46,7 +46,7 @@ let etapas = [
                 vice:'Henrique DUK',
                 fotos:[ 
                     {url:'candidato7.png', legenda: 'Presidente'},
-                    {url:'candidato8.png', legenda: 'Vice-Preseidente', small: true}  
+                    {url:'candidato8.png', legenda: 'Vice-Presidente', small: true}  
                 ] 
             },
         ]
