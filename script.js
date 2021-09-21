@@ -43,7 +43,7 @@ function atualizaInterface() {
         candidato = candidato[0];
         seuVotoPara.style.display = 'block';
         aviso.style.display = 'block';
-        descricao.innerHTML = `Nome: ${candidato.nome}<br/>Partido: ${candidato.partido}`;
+        descricao.innerHTML = `Nome: ${candidato.nome}<br/>Partido: ${candidato.partido}`; 
         
         let fotosHtml = '';
         for(let i in candidato.fotos) {
@@ -51,6 +51,11 @@ function atualizaInterface() {
         }
 
         lateral.innerHTML = fotosHtml;
+
+    } else {
+        seuVotoPara.style.display = 'block';
+        aviso.style.display = 'block';
+        descricao.innerHTML = '<div class="aviso--grande pisca">VOTO NULO</div>';
     }
     console.log("Candidato", candidato);
 }
