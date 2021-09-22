@@ -35,8 +35,8 @@ let etapas = [
                 partido: 'DIF',
                 vice:'Marreta',
                 fotos:[
-                    {url:'candidato5.png', legenda: 'Governador'},
-                    {url:'candidato6.png', legenda: 'Vice-Governador', small: true}
+                    {url:'candidato5.png', legenda: 'Presidente'},
+                    {url:'candidato6.png', legenda: 'Vice-Presidente', small: true}
                 ]
             },
             {
@@ -45,8 +45,8 @@ let etapas = [
                 partido: 'DIF',
                 vice:'Henrique DUK',
                 fotos:[ 
-                    {url:'candidato7.png', legenda: 'Governador'},
-                    {url:'candidato8.png', legenda: 'Vice-Governador', small: true}  
+                    {url:'candidato7.png', legenda: 'Presidente'},
+                    {url:'candidato8.png', legenda: 'Vice-Presidente', small: true}  
                 ] 
             },
         ]
