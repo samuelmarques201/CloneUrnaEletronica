@@ -127,3 +127,4 @@ function confirma() {
 comecarEtapa(); 
 
 /* fazer correção da tela */
+/*verificar contagm de votos*/
