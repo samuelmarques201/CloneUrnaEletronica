@@ -82,7 +82,6 @@ function clicou(n) {
     }
 }
 function branco() {
-
         numero = '';
         votoBranco = true;         
         seuVotoPara.style.display = 'block';
