@@ -126,11 +126,11 @@ body {
     text-align: center;  
 }
 .d-1-image img {
-    width: 100%;
+    width: 100%;    
 }
 .d-1-image.small {
     width: 80%;
-    font-size: 12px;
+    font-size: 11px;
 }
 .d-2 {
     height: 50px;
