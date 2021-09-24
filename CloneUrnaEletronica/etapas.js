@@ -9,8 +9,7 @@ let etapas = [
                 partido: 'DOS RICOS',
                 vice:'Anibal',
                 fotos:[
-                    {url:'candidato1.png', legenda: 'Governador'},
-                    {url:'candidato2.png', legenda: 'Vice-Governador', small: true}
+                    {url:'candidato1.png', legenda: 'Deputador Estadual'}
                 ]
             },
             {
@@ -19,8 +18,7 @@ let etapas = [
                 partido: 'DOS POBRES',
                 vice:'Leda',
                 fotos:[
-                    {url:'candidato3.png', legenda: 'Governador'},
-                    {url:'candidato4.png', legenda: 'Vice-Governador', small: true}  
+                    {url:'candidato3.png', legenda: 'Deputador Estadual'} 
                 ] 
             },
         ]
@@ -35,8 +33,7 @@ let etapas = [
                 partido: 'DOS POBRES',
                 vice:'Anibal',
                 fotos:[
-                    {url:'candidato1.png', legenda: 'Governador'},
-                    {url:'candidato2.png', legenda: 'Vice-Governador', small: true}
+                    {url:'candidato1.png', legenda: 'Deputador Federal'}
                 ]
             },
             {
@@ -45,8 +42,7 @@ let etapas = [
                 partido: 'DOS RICOS',
                 vice:'Leda',
                 fotos:[
-                    {url:'candidato3.png', legenda: 'Governador'},
-                    {url:'candidato4.png', legenda: 'Vice-Governador', small: true}  
+                    {url:'candidato3.png', legenda: 'Deputador Federal'} 
                 ] 
             },
         ]
@@ -61,8 +57,7 @@ let etapas = [
                 partido: 'DOS RICOS',
                 vice:'Anibal',
                 fotos:[
-                    {url:'candidato1.png', legenda: 'Governador'},
-                    {url:'candidato2.png', legenda: 'Vice-Governador', small: true}
+                    {url:'candidato1.png', legenda: 'Senador'}                    
                 ]
             },
             {
@@ -71,8 +66,7 @@ let etapas = [
                 partido: 'DOS POBRES',
                 vice:'Leda',
                 fotos:[
-                    {url:'candidato3.png', legenda: 'Governador'},
-                    {url:'candidato4.png', legenda: 'Vice-Governador', small: true}  
+                    {url:'candidato3.png', legenda: 'Senador'} 
                 ] 
             },
         ]
