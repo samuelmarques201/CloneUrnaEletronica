@@ -33,7 +33,7 @@ let etapas = [
                 partido: 'DOS POBRES',
                 vice:'Anibal',
                 fotos:[
-                    {url:'candidato1.png', legenda: 'Deputador Federal'}
+                    {url:'candidato2.png', legenda: 'Deputador Federal'}
                 ]
             },
             {
@@ -42,31 +42,31 @@ let etapas = [
                 partido: 'DOS RICOS',
                 vice:'Leda',
                 fotos:[
-                    {url:'candidato3.png', legenda: 'Deputador Federal'} 
+                    {url:'candidato4.png', legenda: 'Deputador Federal'} 
                 ] 
             },
         ]
     },
     {
         titulo: 'SENADOR', 
-        numeros: 2,
+        numeros: 3,
         candidatos: [
             {
-                numero: '67',
+                numero: '678',
                 nome: 'Palmerin trabalhador',
                 partido: 'DOS RICOS',
                 vice:'Anibal',
                 fotos:[
-                    {url:'candidato1.png', legenda: 'Senador'}                    
+                    {url:'candidato5.png', legenda: 'Senador'}                    
                 ]
             },
             {
-                numero: '31',
+                numero: '171',
                 nome: 'Carlito do luxo',
                 partido: 'DOS POBRES',
                 vice:'Leda',
                 fotos:[
-                    {url:'candidato3.png', legenda: 'Senador'} 
+                    {url:'candidato6.png', legenda: 'Senador'} 
                 ] 
             },
         ]
@@ -81,8 +81,8 @@ let etapas = [
                 partido: 'DOS POBRES',
                 vice:'Anibal',
                 fotos:[
-                    {url:'candidato1.png', legenda: 'Governador'},
-                    {url:'candidato2.png', legenda: 'Vice-Governador', small: true}
+                    {url:'candidato7.png', legenda: 'Governador'},
+                    {url:'candidato8.png', legenda: 'Vice-Governador', small: true}
                 ]
             },
             {
@@ -91,8 +91,8 @@ let etapas = [
                 partido: 'DOS RICOS',
                 vice:'Leda',
                 fotos:[
-                    {url:'candidato3.png', legenda: 'Governador'},
-                    {url:'candidato4.png', legenda: 'Vice-Governador', small: true}  
+                    {url:'candidato9.png', legenda: 'Governador'},
+                    {url:'candidato10.png', legenda: 'Vice-Governador', small: true}  
                 ] 
             },
         ]
@@ -107,8 +107,8 @@ let etapas = [
                 partido: 'DOS RICOS',
                 vice:'Marreta',
                 fotos:[
-                    {url:'candidato5.png', legenda: 'Presidente'},
-                    {url:'candidato6.png', legenda: 'Vice-Presidente', small: true}
+                    {url:'candidato11.png', legenda: 'Presidente'},
+                    {url:'candidato12.png', legenda: 'Vice-Presidente', small: true}
                 ]
             },
             {
@@ -117,8 +117,8 @@ let etapas = [
                 partido: 'DOS POBRES',
                 vice:'Henrique DUK',
                 fotos:[ 
-                    {url:'candidato7.png', legenda: 'Presidente'},
-                    {url:'candidato8.png', legenda: 'Vice-Presidente', small: true}  
+                    {url:'candidato13.png', legenda: 'Presidente'},
+                    {url:'candidato14.png', legenda: 'Vice-Presidente', small: true}  
                 ] 
             },
         ]
